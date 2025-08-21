@@ -1,1 +1,3 @@
 ## where vars and parms will be stored
+variables:
+  MAJOR: 1
